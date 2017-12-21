@@ -54,3 +54,7 @@ This is the course materials for [stanford CS161](http://web.stanford.edu/class/
    - [Homework 6](https://github.com/adhaamehab/stanford-cs161/tree/master/Homework/Homework6)
    - [Homework 7](https://github.com/adhaamehab/stanford-cs161/tree/master/Homework/Homework7)
 
+  ### Exams
+   - [Exams](https://github.com/adhaamehab/stanford-cs161/tree/master/Exams)
+
+
