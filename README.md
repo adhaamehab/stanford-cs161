@@ -4,9 +4,9 @@ This is the course materials for [stanford CS161](http://web.stanford.edu/class/
 
 ## Installation 
 
- > you need python3 and jupyter
+ you need python3 and jupyter
  ```shell
- jupyter notebook # to run the jupyter server
+ $ jupyter notebook # to run the jupyter server
  ```
 
 
